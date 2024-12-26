@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|c:\\users\\libel\\onedrive\\desktop\\marlene\\marlene\\organizaci\u00F3n\\proyecto modular\\unity curso\\mathquest_v3\\mathquestv3\\assets\\scripts\\statemachine\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playerfallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerfallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playerrunstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerrunstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playerwalkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerwalkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playerstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\irootstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\irootstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\statemachine\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\scripts\\animationandmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationandmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Library\\PackageCache\\com.unity.collab-proxy@2.5.1\\Editor\\PlasticSCM\\UI\\StatusBar\\NotificationBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@2.5.1\\Editor\\PlasticSCM\\UI\\StatusBar\\NotificationBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\animations\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\animations\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B37D02-E1A1-0821-6948-0585C074051D}|Assembly-CSharp.csproj|solutionrelative:assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerGroundedState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:00.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAywMoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:07.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerJumpState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:03.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerFallState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:24:23.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerRunState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:04.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerWalkState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:08.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:01.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerStateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:05.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRootState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:01:39.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerBaseState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:53:58.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimationAndMovementController.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\AnimationAndMovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationAndMovementController.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Scripts\\AnimationAndMovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationAndMovementController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAmwLMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:55:57.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Animations\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Animations\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\Animations\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Animations\\PlayerInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:46:49.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationBar.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Library\\PackageCache\\com.unity.collab-proxy@2.5.1\\Editor\\PlasticSCM\\UI\\StatusBar\\NotificationBar.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@2.5.1\\Editor\\PlasticSCM\\UI\\StatusBar\\NotificationBar.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Library\\PackageCache\\com.unity.collab-proxy@2.5.1\\Editor\\PlasticSCM\\UI\\StatusBar\\NotificationBar.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@2.5.1\\Editor\\PlasticSCM\\UI\\StatusBar\\NotificationBar.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:58:41.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "characterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\characterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\characterMovement.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\Marlene\\Marlene\\Organizaci\u00F3n\\Proyecto Modular\\Unity Curso\\MathQuest_V3\\MathQuestV3\\Assets\\characterMovement.cs",
+              "RelativeToolTip": "Assets\\characterMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:35:56.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

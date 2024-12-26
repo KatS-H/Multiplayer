@@ -1,0 +1,28 @@
+# Archivos generados por Unity que no deben subirse
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos generados por VSCode/IDE
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Archivos específicos de Unity Asset Store
+[Tt]humbs.db
+[Dd]esktop.ini

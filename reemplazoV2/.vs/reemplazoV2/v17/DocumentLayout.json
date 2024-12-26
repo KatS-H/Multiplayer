@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\gamemanagermultiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagermultiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|c:\\users\\libel\\onedrive\\desktop\\v2\\reemplazov2\\assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|c:\\users\\libel\\onedrive\\desktop\\v2\\reemplazov2\\assets\\scripts\\multiplayer\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\multiplayer\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\multiplayer\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\multiplayer\\clientsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\clientsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|c:\\users\\libel\\onedrive\\desktop\\v2\\reemplazov2\\assets\\scripts\\multiplayer\\clienthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\clienthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\multiplayer\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playerrunstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerrunstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\animationandmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationandmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playerfallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerfallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playerwalkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerwalkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playergroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\irootstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\irootstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\assets\\scripts\\statemachine\\playerstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E81BC60-0F00-DE87-2359-595F967A9C87}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playerstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:19:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\UIManager.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\UIManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:15:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerStateMachine.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAADwv4sAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:38:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:52:47.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManagerMultiplayer.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\GameManagerMultiplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagerMultiplayer.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\GameManagerMultiplayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManagerMultiplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:49:09.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:30:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:57:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\Packet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\Packet.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\Packet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\Packet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMBAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:57:58.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientSend.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\ClientSend.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\ClientSend.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\ClientSend.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\ClientSend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:37:04.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientHandle.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\ClientHandle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\ClientHandle.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\ClientHandle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\ClientHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:04:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\Client.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\Client.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\Client.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\Client.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAA9wCoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T23:08:08.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThreadManager.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\ThreadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\ThreadManager.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\Multiplayer\\ThreadManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\ThreadManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:54:23.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerRunState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerRunState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:35:38.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerJumpState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerJumpState.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:47:38.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerIdleState.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:22:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnimationAndMovementController.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\AnimationAndMovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationAndMovementController.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\AnimationAndMovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationAndMovementController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T20:21:50.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerBaseState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerBaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:49:40.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerFallState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerFallState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:22:21.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerWalkState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerWalkState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:23:32.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRootState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\IRootState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:49:39.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerStateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerStateFactory.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA4wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:44:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerGroundedState.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayerGroundedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:47:45.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\libel\\OneDrive\\Desktop\\V2\\reemplazoV2\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T22:03:14.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
